@@ -24,8 +24,7 @@ This is a responsive website for a food palace, built using HTML, CSS, and JavaS
 
 ## Authors
 
-- Darmanov Jakhongir
-- Ikrom
+- Jakhongir & Ikrom
 
 ---
 
